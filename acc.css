@@ -1,0 +1,24 @@
+.a{
+    font-size: 50px;
+    font-weight: 900;
+    font-style: oblique;
+    background-size: cover;
+    color: white;
+    
+}
+
+.z{
+    background-image: url(p\ \(1\).jfif);
+    
+}
+
+.r{
+    color:orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-style: italic;
+    font-weight: 900;
+    font-size: xx-large;
+}

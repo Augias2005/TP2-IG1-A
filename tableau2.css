@@ -1,0 +1,87 @@
+.c{
+
+    background-image: url(p\ \(5\).jfif );
+    background-size: 28%;
+}
+
+
+
+
+
+
+table{
+    
+    border: solid 3px;
+    border-collapse: collapse;
+}
+tr{
+    border-color: black; 
+}
+td{
+    border-color: black;
+    border: solid 3px; 
+    border-style: groove;
+    font-size: 23px;
+    font-family: Arial;
+    text-align: center;
+    
+}
+
+
+caption{
+    font-size: 30px;
+    font-family: Ebrima;
+    width: 300px;
+}
+.ig{
+    color:yellow;
+    font-style: italic;
+}
+.IG{
+    background-color:green;
+}
+
+.GFC{
+    background-color: rgb(240, 187, 13);
+}
+.gfc{
+    color: green;
+}
+
+
+
+
+.GRH{
+    background-color:rgb(231, 13, 13);
+}
+
+.grh{
+    color:green;
+    font-style:var(300px)
+}
+.G{
+    background-color: yellow;
+}
+
+
+
+.H{
+    background-color: yellow;
+}
+.g{
+    color: red;
+}
+.h{
+    color: red;
+}
+
+.t{
+    text-decoration: underline;
+    font-style: oblique;
+    color:black;
+}
+
+
+
+
+
